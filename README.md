@@ -1,29 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haze
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is HazeStudioFR, also know as Haze
 ============================================================================================================================
 
-C# Developer specializing in RagePluginHook/LSPDFR plugins.
+Who is Haze?
 -----------------------------------------------------------
 
-I began my journey in mods for GTA V by creating EUP textures, progressing to models. Later, I messed around with ELS & Non-ELS vehicles, and during the COVID pandemic, I experimented with coding. It wasn't until my 11th grade computer tech class, which focused on Java, that my interest in learning C# intensified. While I may not be a professional, I code for enjoyment and continuous learning. On another note, I recently earned my NREMT. I've developed a strong interest in the pre-hospital field, which began in 2021. Although I didn't join an ambulance company until 2022, I quickly obtained my EMR (A year almost to date before my EMT). Just a few days past my 18th birthday, I earned my EMT certification. My future plans include advancing to become a paramedic and eventually pursuing a career as a flight medic.
+I am a c# developer focusing on projects involving RagePluginHook or LSPDFR. I began creating simple mods for GTA V, back in 2019, when I started off with EUP textures, which quickly moved to EUP models, and ELS/NonELS vehicles. I had a period where I expieremted with coding, but wasn't very good at it. It wasn't until a CS class, focused on Java, that I took when I was in highschool, when I started to try and learn some coding. While I am far from professional or an expert, I code for enjoyment and continious learning. 
 
 * 🌍  I'm based in United States - East Coast
-* ✉️  You can contact me at [https://discord.gg/mV9kaACXkM](mailto:https://discord.gg/mV9kaACXkM)
-* 🚀  I'm currently working on [PulseEMS - LSPDFR EMS Mod](http://www.lcpdfr.com/downloads/gta5mods/scripts/45092-pulseems/)
-* 🤝  I'm open to collaborating on LSPDFR Related Projects
+* ✉️  You can contact me on my [Discord Server](https://discord.gg/mV9kaACXkM)
+* 🚀  I'm currently working on a few different project
+  * PulseEMS v2.2 - A plugin for RagePluginHook that aims to bring EMS to the world of crime and streets of the great state, San Andreas.
+  * VanillaFR v1.0 - A Plugin for LSPDFR 0.4.9 that aims to override and reinvent some of the "vanilla" lspdfr features, brining more ideas, and features, while still keeping the classic LSPDFR look.
+* 🤝  I'm open to collaborating on any LSPDFR/RPH Related Projects (RPH > LSPDFR)
 * ⚡  I love music and will always take suggestions on good songs for coding/gym/everyday life
 
-### Skills
+And outside of the CS world?
+-----------------------------------------------------------
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/hazestudios" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/HazeStudioFR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@HazeStudioFR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/HazeStudioFR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazeStudioFR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+As of writing this I am 19 years old, born in the United States, and I have a pretty good goal of becoming a Flight Paramedic. Currently I hold my NREMT-B license, but as of January 13th, I have started Paramedic classes, which will last until early December 2025. I currently hold the "title" of the youngest paid EMT for my station, and hopefully soon to be youngest Paramedic in my county/state.
